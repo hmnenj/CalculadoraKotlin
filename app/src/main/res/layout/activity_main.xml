@@ -16,7 +16,7 @@
         android:layout_marginTop="60dp"
         android:fontFamily="@font/OswaldMedium"
         android:gravity="end"
-        android:textColor="@color/nebula_200"
+        android:textColor="@color/white"
         android:textSize="30sp"
         app:layout_constraintTop_toTopOf="parent"
         tools:text="Fórmula"/>
