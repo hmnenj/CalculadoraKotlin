@@ -35,7 +35,7 @@
         app:layout_constraintTop_toBottomOf="@+id/tvFormula"/>
 
     <GridLayout
-        android:id="@+id/LayoutMain"
+        android:id="@+id/layoutMain"
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:layout_marginHorizontal="10dp"
